@@ -5,4 +5,3 @@
 아래 이메일로 메일주시면 저장소 공유드리겠습니다)
 - Email : ttok14@naver.com
 - 플레이 동영상 : https://youtu.be/DMq3XybMLAI
-- 커밋 기록
